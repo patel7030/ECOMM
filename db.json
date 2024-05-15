@@ -1,0 +1,187 @@
+{
+  "seller": [
+    {
+      "id": "dbb8",
+      "name": "him",
+      "password": "him@123",
+      "email": "him@123"
+    },
+    {
+      "id": "7ab8",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "eb23",
+      "name": "sid@123",
+      "password": "sid@123",
+      "email": "sid@123"
+    },
+    {
+      "id": "dbc8",
+      "name": "tejas patil",
+      "password": "tej@123",
+      "email": "tej@123"
+    },
+    {
+      "id": "7408",
+      "name": "sid@123",
+      "password": "sid@123",
+      "email": "sid@123"
+    },
+    {
+      "id": "55ba",
+      "name": "him",
+      "password": "him@456",
+      "email": ""
+    },
+    {
+      "id": "c75a",
+      "name": "him@456",
+      "password": "him@456",
+      "email": "him@456"
+    }
+  ],
+  "products": [
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "2"
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": "4"
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Truck",
+      "price": "Toy",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": "6"
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": "7"
+    }
+  ],
+  "users": [
+    {
+      "id": "93d2"
+    },
+    {
+      "id": "c616",
+      "name": "hiisckljn",
+      "email": "mnc ",
+      "password": "xzc"
+    },
+    {
+      "id": "a1e1",
+      "name": "himanshu",
+      "email": "him@123",
+      "password": "him@123"
+    },
+    {
+      "id": "2d5d",
+      "name": "him@123",
+      "email": "him@123",
+      "password": "him@123"
+    },
+    {
+      "id": "ba72",
+      "name": "deep",
+      "email": "deep@123",
+      "password": "deep@123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0ae6",
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": "2",
+      "userId": "a1e1"
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": "1"
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": "3"
+    },
+    {
+      "id": "919d",
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 100,
+      "userId": "a1e1"
+    },
+    {
+      "id": "2384",
+      "email": "him@123",
+      "address": "pune",
+      "contact": "9359378608",
+      "totalPrice": 650,
+      "userId": "2d5d"
+    },
+    {
+      "id": "6941",
+      "email": "deep",
+      "address": "pune",
+      "contact": "93593786098",
+      "totalPrice": 100100,
+      "userId": "ba72"
+    }
+  ]
+}
